@@ -49,5 +49,5 @@ All links were manually tested.  All external links include "target=_blank" so t
 
 ## Credits
 ### Media
-- The photos used in this site are from [pexels](https://www.pexels.com/), [unplash](https://unplash.com), [pxhere](https://pxhere.com)<br>
+- The photos used in this site are from [pexels](https://www.pexels.com/), [unsplash](https://unsplash.com), [pxhere](https://pxhere.com)<br>
 - The video used in this site is from [Youtube](https://www.youtube.com/).
